@@ -14,6 +14,8 @@ class App(App):
 
         output_label = TextInput(size_hint_y=0.8, font_size="100sp")
 
+
+
         button_symbols = ('1', '2', '3', '+',
                           '4', '5', '6', '-',
                           '7', '8', '9', '÷',
